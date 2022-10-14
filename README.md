@@ -16,12 +16,12 @@ You seem to be someone with a creative streak or an interesting hobby. Start to 
 
 
 ## About CMS Theme Editor
-###### Name: CMS-T-Editor
-###### Version: 0.0.5
-###### PHP Version: 8.1 ready
-###### No Database required
-###### Author:  Andreas Holzer / @WebCrew / https://github.com/WebCrew
-###### Description: Thats a code editor with integrated file manager based on ACE and Emmet which you can use to code or edit a project online - or and that was the main reason for the project, to load the editor into the Themes folder of a CMS or Forum Script and then use it as a CMS / Forum Theme Editor.
+##### Name: CMS-T-Editor
+##### Version: 0.0.5
+##### PHP Version: 8.1 ready
+##### No Database required
+##### Author:  Andreas Holzer / @WebCrew / https://github.com/WebCrew
+##### Description: Thats a code editor with integrated file manager based on ACE and Emmet which you can use to code or edit a project online - or and that was the main reason for the project, to load the editor into the Themes folder of a CMS or Forum Script and then use it as a CMS / Forum Theme Editor.
 
 
 
@@ -29,6 +29,7 @@ You seem to be someone with a creative streak or an interesting hobby. Start to 
 
 	1. A FTP Programm like FileZilla To Upload the Editor Folder and Files into Your CMS / Forum Theme Folder. Or to upload it on 
 	Your Server to use it as a online Web-Editor with File Manager.
+	
 	2. Best Use with Firefox Browser, as in Chrome it will (maybe) give some error (to prevent xss attack) while saving a file 
 	which has js in it (Google policies).
 
@@ -43,13 +44,8 @@ because it is based on these systems.
 
 #### With The File Manager You Can ...
 
-	1. rename a file
-	2. delete a file
-	3. upload a file
-	4. edit a file
-	5. create a folder
-	6. delete a folder
-	7. rename a folder
+	1. rename, upload, edit or delete a file
+	2. create, rename or delete a folder
 
 
 
@@ -57,28 +53,18 @@ because it is based on these systems.
 
 	1. edit a file
 	2. save a file
-	3. searcg, find and replace
-	4. list the directory
-	5. open and close dir in sidebar
-	6. rename of a file
-	7. select document type
-	8. select font size
-	9. select theme
-	10. Clt + S (save enabled)
-	11. open folder icon
-	12. set editor according to document type (php, css, script, html, text, sass, less)
-	13. cookie for font and theme
-	14. make use of lots of keyboard shortcuts (press clt+alt+h to view keyboard shortcuts)
-	15. Emmet enabled (cheatcode: https://docs.emmet.io/cheat-sheet/)
-
-
-
-#### Miscellaneous
-
-	1. login page comes with session
-	2. logout
-	3. set working directory
-	4. reset working directory
+	3. list the directory
+	4. change base folder for sidebar view
+	5. rename of a file
+	6. select document type
+	7. select font size
+	8. select theme
+	9. Clt + S (save enabled)
+	10. open folder icon
+	11. set the document type (php, css, script, html, text, sass, less)
+	12. font and theme selection saved in cookies
+	13. make use of lots of keyboard shortcuts (press clt+alt+h to view keyboard shortcuts)
+	14. Emmet enabled (cheatcodes: https://docs.emmet.io/cheat-sheet/)
 
 
 
@@ -86,13 +72,16 @@ because it is based on these systems.
 
 	1. Use as a Default Web-Editor: Unzip my Editor Files and upload all Files on your Server. Now run 
 	https://yourdomain/cms-t-editor.php and login with the password: password
+	
 	2. Use as a CMS / Forum Theme Editor: unzip my Editor Files then upload all files with a FTP Programm into the Theme 
 	Folder of Your CMS or Forum. Depending on which CMS or which forum you use, you still have to integrate the following: Ask the 
 	developer how to create a menu link in the CMS backend called for example "Theme Editor". Also ask the developer what to do so 
 	that the cms-t-editor.php page with the link you created and the Editor will be displayed in the CMS backend. Now You see the 
 	ditors Login Form. Loginn with the default password: password. Thats it.
+	
 	3. Note again, the login Password is: password
-	5. steps to change the password:
+	
+	4. steps to change the password:
 	   - convert your new password in md5 hash (You can us: https://www.md5hashgenerator.com/)
 	   - find the below code in cms-t-editor.php  (its around line 126)
            - if(md5($_POST['password']) == '5f4dcc3b5aa765d61d8327deb882cf99'){
