@@ -27,14 +27,17 @@ You seem to be someone with a creative streak or an interesting hobby. Start to 
 
 ## Requirements
 
-	1. A FTP Programm like FileZilla To Upload the Editor Folder and Files into Your CMS / Forum Theme Folder. Or to upload it on Your Server to use it as a online Web-Editor with File Manager.
-	2. Best Use with Firefox Browser, as in Chrome it will (maybe) give some error (to prevent xss attack) while saving a file which has js in it (Google policies).
+	1. A FTP Programm like FileZilla To Upload the Editor Folder and Files into Your CMS / Forum Theme Folder. Or to upload it on 
+	Your Server to use it as a online Web-Editor with File Manager.
+	2. Best Use with Firefox Browser, as in Chrome it will (maybe) give some error (to prevent xss attack) while saving a file 
+	which has js in it (Google policies).
 
 
 
 ## Some Features Of The Editor
 
-If you know the ACE editor and also have an idea of Emmet, then you already know many of the possibilities that the editor offers because it is based on these systems. 
+If you know the ACE editor and also have an idea of Emmet, then you already know many of the possibilities that the editor offers 
+because it is based on these systems. 
 
 
 
@@ -81,8 +84,13 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 
 ## How To Use
 
-	1. Use as a Default Web-Editor: Unzip my Editor Files and upload all Files on your Server. Now run https://yourdomain/cms-t-editor.php and login with the password: password
-	2. Use as a CMS / Forum Theme Editor: unzip my Editor Files then upload all files with a FTP Programm into the Theme Folder of Your CMS or Forum. Depending on which CMS or which forum you use, you still have to integrate the following: Ask the developer how to create a menu link in the CMS backend called for example "Theme Editor". Also ask the developer what to do so that the cms-t-editor.php page with the link you created and the Editor will be displayed in the CMS backend. Now You see the ditors Login Form. Loginn with the default password: password. Thats it.
+	1. Use as a Default Web-Editor: Unzip my Editor Files and upload all Files on your Server. Now run 
+	https://yourdomain/cms-t-editor.php and login with the password: password
+	2. Use as a CMS / Forum Theme Editor: unzip my Editor Files then upload all files with a FTP Programm into the Theme 
+	Folder of Your CMS or Forum. Depending on which CMS or which forum you use, you still have to integrate the following: Ask the 
+	developer how to create a menu link in the CMS backend called for example "Theme Editor". Also ask the developer what to do so 
+	that the cms-t-editor.php page with the link you created and the Editor will be displayed in the CMS backend. Now You see the 
+	ditors Login Form. Loginn with the default password: password. Thats it.
 	3. Note again, the login Password is: password
 	5. steps to change the password:
 	   - convert your new password in md5 hash (You can us: https://www.md5hashgenerator.com/)
@@ -94,7 +102,9 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 	   
 ## Whats next on the ToDo list
 
-    1. I wanted to integrate TogetherJs to give the editor a collaborative feature - to work in a team. Unfortunately, TogetherJS is no longer active and the community servers often have failures. So far there is no really good alternative - maybe you have one? In any case, I'll keep an eye on that.
+    1. I wanted to integrate TogetherJs to give the editor a collaborative feature - to work in a team. Unfortunately, TogetherJS is 
+    no longer active and the community servers often have failures. So far there is no really good alternative - maybe you have one? 
+    In any case, I'll keep an eye on that.
 
     2. Another thing is that I want to integrate a simple image editor, also for .svg files. I already have one on my harddrive.
 
