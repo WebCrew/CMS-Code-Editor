@@ -103,14 +103,16 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 ## Screenshots
 
 <a href="https://net-twin.de">
-    <img src="[[https://github.com/WebCrew/WebCrew_codarko/blob/master/thumbnail.png?raw=true](https://github.com/WebCrew/All-purpose-CMS-theme-editor/blob/main/screens/login.png)](https://github.com/WebCrew/All-purpose-CMS-theme-editor/blob/main/screens/login.png)" alt="Screenshot Login"
+    <img src="https://github.com/WebCrew/All-purpose-CMS-theme-editor/blob/main/screens/login.png?raw=true" alt="Screenshot Login"
          title="Editor - Login View" align="left" />
 </a>
 
 <a href="https://net-twin.de">
-    <img src="[[https://github.com/WebCrew/WebCrew_codarko/blob/master/thumbnail.png?raw=true](https://github.com/WebCrew/All-purpose-CMS-theme-editor/blob/main/screens/editor.png)](https://github.com/WebCrew/All-purpose-CMS-theme-editor/blob/main/screens/editor.png)" alt="Screenshot Editor"
+    <img src="https://github.com/WebCrew/All-purpose-CMS-theme-editor/blob/main/screens/editor.png?raw=true" alt="Screenshot Editor"
          title="Editor View" align="left" />
 </a>
+
+***
 
 
 ## Special Thanks to:
