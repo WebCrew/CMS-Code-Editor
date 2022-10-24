@@ -105,6 +105,10 @@ possibilities that the editor offers because it is based on these systems.
 
     2. Another thing is that I want to integrate a simple image editor, also for .svg files. 
     I already have one on my harddrive.
+    
+    3. The CSS should definitely be 100% responsive - so far it has unfortunately only partially 
+    fulfilled the requirement. So if you are interested, you are welcome to do so and help - thank 
+    you very much.
 
 
 
