@@ -1,7 +1,7 @@
 # CMS-T-Editor
 
 
-Thats a simple but awesome code editor with integrated file manager based on ACE and Emmet which you can use to run as...
+Thats a simple but awesome code editor with integrated file manager based on ACE and Emmet which you can use to run as ...
 
 First I ask you to give my repository a STAR please - would be very nice - thank you :)
 
@@ -13,9 +13,7 @@ Theme & Style Editor.
 
 ## Note:
 
-You seem to be someone with a creative streak or an interesting hobby. Start to meet more people like you 
-which maybe share the same creative hobbies or interests as you. Give a new platform a chance and register 
-now at https://net-twin.de its free and awesome. More to come!
+You seem to be someone with a creative streak or an interesting hobby. Start to meet more people like you which maybe share the same creative hobbies or interests as you. Give a new platform a chance and register now at https://net-twin.de its free and awesome. More to come!
 
 
 ## About CMS Theme / Template Editor
@@ -24,8 +22,7 @@ now at https://net-twin.de its free and awesome. More to come!
 #### PHP Version: 8.1 ready
 #### No Database required
 #### Author:  Andreas Holzer / @WebCrew / https://github.com/WebCrew
-#### Description: Thats a code editor with integrated file manager based on ACE and Emmet which you can use to code or edit a project online - or and that was the
-main reason for the project, to load the editor into the Themes folder of a CMS or Forum Script and then use it as a CMS / Forum Theme Editor.
+#### Description: Thats a code editor with integrated file manager based on ACE and Emmet which you can use to code or edit a project online. You can also load the editor into the Themes folder of a CMS or Forum Script and then use it as a CMS / Forum Theme or better said Code Editor.
 
 
 
