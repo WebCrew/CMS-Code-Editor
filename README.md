@@ -1,7 +1,7 @@
 # CMS-T-Editor
 
 
-Thats a simple but awesome code editor with integrated file manager based on ACE and Emmet which you can use to run as ...
+Thats a simple but awesome code editor with integrated file manager based on ACE and Emmet which you can use to run as...
 
 First I ask you to give my repository a STAR please - would be very nice - thank you :)
 
