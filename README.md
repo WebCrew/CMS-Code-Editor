@@ -18,7 +18,7 @@ which maybe share the same creative hobbies or interests as you. Give a new plat
 now at https://net-twin.de its free and awesome. More to come!
 
 
-## About CMS Theme Editor
+## About CMS Theme / Template Editor
 ##### Name: CMS-T-Editor
 ##### Version: 0.0.5
 ##### PHP Version: 8.1 ready
