@@ -89,7 +89,7 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 2. Another thing is that I want to integrate a simple image editor, also for .svg files. I already have one on my harddrive.
     
 3. The CSS should definitely be 100% responsive - so far it has unfortunately only partially fulfilled the requirement. So if you are interested, you are welcome to do so and help - thank you very much.
-4. @XHiddenProjects had a good idea to make password hashing easier - I`ll think about it and xreated a issue of his discussion thread. Maybe he is so nice and will do a pull request or I`ll do it myself if I find the time. So or so it is a great idea. Thank you.
+4. @XHiddenProjects had a good idea to make password hashing easier - I ll think about it and xreated a issue of his discussion thread. Maybe he is so nice and will do a pull request or I`ll do it myself if I find the time. So or so it is a great idea. Thank you.
 
 
 
