@@ -123,7 +123,7 @@
 	
 	$loginError = "";
 	if(isset($_POST['submitPassword'])){
-		if(md5($_POST['password']) == '5f4dcc3b5aa765d61d8327deb882cf99'){
+		if(md5($_POST['password']) == md5(simplexml_load_file('auth/credentials.xml')->psw))){
 			$_SESSION["login"] = "true";
 		}else{
 			$loginError = "Password is not correct - smoke a little less weed.";
