@@ -75,10 +75,9 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 3. Note again, the login Password is: password
 	
 4. steps to change the password:
-- convert your new password in md5 hash (You can us: https://www.md5hashgenerator.com/)
+- thanks to @XHiddenProjects password hashing is now a outmated task, we no longer have to do it with: https://www.md5hashgenerator.com
 - find the below code in cms-t-editor.php  (its around line 126)
-- if(md5($_POST['password']) == '5f4dcc3b5aa765d61d8327deb882cf99'){
-- replace **5f4dcc3b5aa765d61d8327deb882cf99** with your new hash
+
 
 
 	   
@@ -88,8 +87,8 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 
 2. Another thing is that I want to integrate a simple image editor, also for .svg files. I already have one on my harddrive.
     
-3. The CSS should definitely be 100% responsive - so far it has unfortunately only partially fulfilled the requirement. So if you are interested, you are welcome to do so and help - thank you very much.
-4. @XHiddenProjects had a good idea to make password hashing easier - I ll think about it and xreated a issue of his discussion thread. Maybe he is so nice and will do a pull request or I`ll do it myself if I find the time. So or so it is a great idea. Thank you.
+3. The CSS should definitely be 100% responsive - so far it has unfortunately only partially fulfilled the requirement. I am thinking about to create a whole new UI with Bootstrap 5.
+
 
 
 
@@ -111,6 +110,8 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 ## Special Thanks to:
 
 Special Thanks to ACE, Emmet, Fontawesome and Google Fonts. 
+
+@XHiddenProjects for the outmated password hashing feature
 
 
 
