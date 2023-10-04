@@ -111,7 +111,7 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 
 Special Thanks to ACE, Emmet, Fontawesome and Google Fonts. 
 
-@XHiddenProjects for the outmated password hashing feature
+@XHiddenProjects for the automated password hashing feature
 
 
 
