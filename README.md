@@ -70,11 +70,13 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 
 1. Use as a Default Web-Editor: Unzip my Editor Files and upload all Files on your Server. Now run https://yourdomain/cms-t-editor.php and login with the password: password
 	
-2. Use as a CMS / Forum Theme Editor: unzip my Editor Files then upload all files with a FTP Programm into the Theme Folder of Your CMS or Forum. Depending on which CMS or which forum you use, you still have to integrate the following: Ask the developer how to create a menu link in the CMS backend called for example "Theme Editor". Also ask the developer what to do so that the cms-t-editor.php page with the link you created and the Editor will be displayed in the CMS backend. Now You see the editors Login Form. Loginn with the default password: password. Thats it.
+2. Use as a CMS / Forum Theme Editor: unzip my Editor Files then upload all files with a FTP Programm into the Theme Folder of Your CMS or Forum. Depending on which CMS or which forum you use, you still have to integrate the following: Ask the developer how to create a menu link in the CMS backend called for example "Theme Editor". Also ask the developer what to do so that the cms-t-editor.php page with the link you created and the Editor will be displayed in the CMS backend. Now You see the editors Login Form. Login with the default password: password.
+
+3. Thats it.
 	
-3. Note again, the login Password is: password
+4. Note again, the login Password is: password
 	
-4. steps to change the password:
+5. steps to change the password:
 - thanks to @XHiddenProjects password hashing is now a outmated task, we no longer have to do it with: https://www.md5hashgenerator.com
 - find the below code in cms-t-editor.php  (its around line 126)
 
