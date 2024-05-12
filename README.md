@@ -16,6 +16,8 @@ Theme & Style Editor.
 You seem to be someone with a creative streak or an interesting hobby. Start to meet more people like you which maybe share the same creative hobbies or interests as you. Give a new platform a chance and register now at https://net-twin.de its free and awesome. More to come!
 
 
+
+
 ## About CMS Theme / Template Editor
 #### Name: CMS-T-Editor
 #### Version: 0.0.5
@@ -23,6 +25,8 @@ You seem to be someone with a creative streak or an interesting hobby. Start to 
 #### No Database required
 #### Author:  Andreas Holzer / @WebCrew / https://github.com/WebCrew
 #### Description: Thats a code editor with integrated file manager based on ACE and Emmet which you can use to code or edit a project online. You can also load the editor into the Themes folder of a CMS or Forum Script and then use it as a CMS / Forum Theme or better said Code Editor.
+
+
 
 
 
@@ -34,9 +38,13 @@ You seem to be someone with a creative streak or an interesting hobby. Start to 
 
 
 
+
+
 ## Some Features Of The Editor
 
 If you know the ACE editor and also have an idea of Emmet, then you already know many of the possibilities that the editor offers because it is based on these systems. 
+
+
 
 
 
@@ -44,6 +52,8 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 
 1. rename, upload, edit or delete a file
 2. create, rename or delete a folder
+
+
 
 
 
@@ -66,6 +76,8 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 
 
 
+
+
 ## How To Use
 
 1. Use as a Default Web-Editor: Unzip my Editor Files and upload all Files on your Server. Now run https://yourdomain/cms-t-editor.php and login with the password: password
@@ -82,14 +94,14 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 
 
 
+
 	   
 ## Whats next on the ToDo list
 
 1. I wanted to integrate TogetherJs to give the editor a collaborative feature - to work in a team. Unfortunately, TogetherJS is no longer active and the community servers often have failures. So far there is no really good alternative - maybe you have one? In any case, I'll keep an eye on that.
-
 2. Another thing is that I want to integrate a simple image editor, also for .svg files. I already have one on my harddrive.
-    
-3. The CSS should definitely be 100% responsive - so far it has unfortunately only partially fulfilled the requirement. I am thinking about to create a whole new UI with Bootstrap 5.
+3. I am thinking about to create a whole new UI with Bootstrap 5 to make the editor 100% responsive and easy to restyle.
+4. AI Henchmen  - Integration of ChatGPT to support writing and developing code, similar to GitHub Copilot
 
 
 
