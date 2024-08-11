@@ -69,7 +69,7 @@ If you know the ACE editor and also have an idea of Emmet, then you already know
 8. select theme
 9. Clt + S (save enabled)
 10. open folder icon
-11. set the document type (php, css, script, html, text, sass, less)
+11. set the document type (php, css, js, html, text, sass, less)
 12. font and theme selection saved in cookies
 13. make use of lots of keyboard shortcuts (press clt+alt+h to view keyboard shortcuts)
 14. Emmet enabled (cheatcodes: https://docs.emmet.io/cheat-sheet/)
